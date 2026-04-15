@@ -1,0 +1,13 @@
+[package]
+name = "web-socket-server"
+version = "0.1.0"
+authors = ["Cristian Davide Conte <64142998+CristianDavideConte@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ws = {git="https://github.com/housleyjk/ws-rs"}
+chrono = "0.4.19"
+lazy_static = "1.4.0"
+timer = "0.2.0"

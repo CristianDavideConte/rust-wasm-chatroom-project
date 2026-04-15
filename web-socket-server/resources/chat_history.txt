@@ -1,0 +1,5 @@
+<div class = "chat-date"><strong>21/07/2021</strong></div> 
+<p class = "message">Cos'è quest'applicazione?</p><p class = "message-date">13:26:30</p> 
+<p class = "message">Questa è una Chat Room</p><p class = "message-date">13:27:46</p> 
+<p class = "message">Realizzata utilizzando Rust e WebAssembly</p><p class = "message-date">13:28:12</p> 
+<p class = "message">Interessante!</p><p class = "message-date">13:29:04</p> 
