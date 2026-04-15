@@ -31,7 +31,9 @@ The repository is divided into two main components and a documentation folder:
 ```
 rust-wasm-chatroom-project/
 ├── docs/                      # Documentation and project assets
-│   └── images/                # UI screenshots and diagrams
+│   ├── Slideshow.pdf          # Slideshow that showcases the work (Italian only)
+│   ├── Paper.pdf              # Paper of this work (Italian only)
+│   └── Preview.png            # UI screenshot
 ├── web-socket-client/         # Frontend WASM application
 │   ├── src/                   # Client-side Rust logic and bindings
 │   ├── index.html             # Main entry point
